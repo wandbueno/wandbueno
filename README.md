@@ -1,8 +1,5 @@
 ### Olá, eu sou o Wanderson Bueno 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
-
  <div>
   <a href="https://github.com/wandbueno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wandbueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
